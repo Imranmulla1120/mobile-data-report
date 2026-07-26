@@ -67,3 +67,7 @@ Power BI | DAX | Power Query | Data Cleaning | Data Analysis | Data Visualizatio
 ## Dashboard Preview
 
 ![Mobile Sales Dashboard](mobile-sales-dashboard.png)
+
+## Dashboard Preview
+
+![Mobile Sales Dashboard](mobile%20data%20final%20report.png)
